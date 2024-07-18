@@ -6,3 +6,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Karan-Veer-Pal&label=Profile%20views&color=0e75b6&style=flat" alt="Karan-Veer-Pal" /> </p>
 
 <p align="left"> <a href="https://x.com/karanveerpal__" target="blank"><img src="https://img.shields.io/twitter/follow/karanveerpal__?logo=twitter&style=for-the-badge" alt="karanveerpal__" /></a> </p> 
+
+
+<ul>
+    <li>- 🔭 I’m currently working on <strong>Web Development</strong>
+    </li>
+    <br>
+    <li>- 🌱 I’m currently learning <strong>AI & ML, JAVA</strong>
+    </li>
+    <br>
+    <li>- 💬 Ask me about <strong>C, C++, Data Structure, HTML & CSS</strong></li>
+    <br>
+    <li>- 📫 How to reach me <strong>karanpalveer@gmail.com</strong></li>
+    <br>
+    <li>- ⚡ Fun fact I think Coding is Easy.</li>
+</ul>
