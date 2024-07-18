@@ -21,3 +21,13 @@
     <br>
     <li>- ⚡ Fun fact I think Coding is Easy.</li>
 </ul>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<!-- <a href="https://codepen.io/crackcode63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="crackcode63" height="30" width="40" /></a> -->
+<a href="https://x.com/karanveerpal__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karanveerpal__" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/karan-veer-pal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan-veer-pal/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/imkaranveerpal___/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imkaranveerpal___" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/crackcode63/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="crackcode63/" height="30" width="40" /></a> -->
+<a href="https://replit.com/@KARAN-VEER-PALV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/replit.svg" alt="KARAN-VEER-PALV" height="30" width="40" /></a>
+</p>
