@@ -9,7 +9,7 @@
 
 
 <ul>
-    <li>- 🔭 I’m currently working on <strong>Web Development</strong>
+    <li>- 🔭 I’m currently working on <strong>Bootstrap</strong>
     </li>
     <br>
     <li>- 🌱 I’m currently learning <strong>AI & ML, JAVA</strong>
